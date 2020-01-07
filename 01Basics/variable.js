@@ -2,5 +2,5 @@ let name='sagar'
 console.log(name)
 
 let firstName = 'sagar'
-let lastName = 'mochi'
+let lastName = 'chouhan'
 console.log(firstName + ' ' + lastName)
